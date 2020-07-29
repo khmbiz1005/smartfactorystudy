@@ -1,1 +1,21 @@
 my first test of github.
+
+# 변경사항을 알려준다.
+git diff
+
+# 새로운 파일을 추가한다.
+git add 파일명.txt
+
+# 새로운 버전을 깃에 생성한다.
+git commit -n "버전명"
+
+# 작업했던 내용들을 쭈루룩 본다.
+git log
+
+# 지역저장소(컴퓨터) 에 만든것을 깃허브에 업로드시킨다.
+git push
+
+# 현재 상태 (어디를 수정했는지)
+git status
+
+
